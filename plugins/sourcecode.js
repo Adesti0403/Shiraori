@@ -9,7 +9,7 @@ let handler = async (m) => {
 let esce = `
 Bot ini Menggunakan Script Dari
 
-https://github.com/ilmanhdyt/ShiraoriBOT-Md`
+https://github.com/Adesti0403/`
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -20,13 +20,13 @@ https://github.com/ilmanhdyt/ShiraoriBOT-Md`
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               url: 'https://github.com/Adesti0403/'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Ok Bang',
+               displayText: 'Ok kak',
                id: '.menu',
              }
 
