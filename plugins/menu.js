@@ -37,13 +37,14 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 
   let tags
   let teks = `${args[0]}`.toLowerCase()
-  let arrayMenu = ['all', 'game', 'xp', 'stiker', 'kerangajaib', 'quotes', 'admin', 'grup', 'internet', 'anonymous', 'nulis', 'downloader', 'tools', 'fun', 'database', 'quran', 'audio', 'jadibot', 'info', 'tanpakategori', 'owner']
+  let arrayMenu = ['all', 'game', 'xp', 'premium', 'stiker', 'kerangajaib', 'quotes', 'admin', 'grup', 'internet', 'anonymous', 'nulis', 'downloader', 'tools', 'fun', 'database', 'quran', 'audio', 'jadibot', 'info', 'tanpakategori', 'owner']
   if (!arrayMenu.includes(teks)) teks = '404'
   if (teks == 'all') tags = {
   'main': 'MENU UTAMA',
   'game': 'MENU GAME',
   'rpg': 'MENU RPG',
   'xp': 'MENU EXP',
+  'premium': 'MENU PREMIUM',
   'group': 'MENU GROUP',
   'absen': 'MENU ABSEN',
   'vote': 'MENU VOTE',
@@ -69,6 +70,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
   }
   if (teks == 'xp') tags = {
     'xp': 'Exp & Limit'
+  }
+  if (teks == 'premium') tags = {
+    'premium': 'Premium'
   }
   if (teks == 'stiker') tags = {
     'sticker': 'Stiker'
@@ -191,6 +195,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           { title: 'Semua Perintah', rowId: `${_p}? all` },
           { title: 'Game', rowId: `${_p}? game` },
           { title: 'XP', rowId: `${_p}? xp` },
+          { title: 'Premium', rowId: `${_p}? premium` },
           { title: 'Stiker', rowId: `${_p}? stiker` },
           { title: 'Kerang Ajaib', rowId: `${_p}? kerangajaib` },
           { title: 'Quotes', rowId: `${_p}? quotes` },
