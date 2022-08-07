@@ -7,18 +7,18 @@
 <a href="#"><img title="SHIRAORI BOT MULTI DEVICE" src="https://img.shields.io/badge/SHIRAORI BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilmanhdyt/ShiraoriBOT-Md"><img title="Author" src="https://img.shields.io/badge/Author-Ilman-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Adesti0403/Shiraori"><img title="Author" src="https://img.shields.io/badge/Author-Dess-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilmanhdyt/ShiraoriBOT-Md"><img title="Followers" src="https://img.shields.io/github/followers/ilmanhdyt?color=blue&style=flat-square"></a>
-<a href="https://github.com/ilmanhdyt/ShiraoriBOT-Md"><img title="Stars" src="https://img.shields.io/github/stars/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/ilmanhdyt/ShiraoriBOT-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/ilmanhdyt/ShiraoriBOT-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ilmanhdyt/ShiraoriBOT-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Adesti0403/Shiraori"><img title="Followers" src="https://img.shields.io/github/followers/ilmanhdyt?color=blue&style=flat-square"></a>
+<a href="https://github.com/Adesti0403/Shiraori"><img title="Stars" src="https://img.shields.io/github/stars/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/Adesti0403/Shiraori/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ilmanhdyt/ShiraoriBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/Adesti0403/Shiraori/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ilmanhdyt/ShiraoriBOT-Md?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ---
 
-# SHIRAORI BOT Whatsapp MD
+# SHIRAORI Whatsapp MD
 
 ## Information
 > ShiraoriBOT whatsapp using a Baileys library.
@@ -30,14 +30,14 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/Adesti0403"><img src="https://github.com/Adesti0403.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-Shiraori](https://wa.me/6281351047727)
-* Kamu bisa testing fitur ShiraoriBOT [disini](https://wa.me/62895803135347?text=.menu)
+* Info Lebih Lanjut, Chat [owner-Shiraori](https://wa.me/6281649357107)
+* Kamu bisa testing fitur ShiraoriBOT [disini](https://wa.me/6281649357107?text=.menu)
 
 ## How To Change Menu Display
 ----
